@@ -1,2 +1,0 @@
-# cordasa
-tanpura
